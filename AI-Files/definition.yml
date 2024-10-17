@@ -1,0 +1,8 @@
+name: AI-Files
+display-name: AI-Files
+author: D1yy
+version: 1.0.1
+dependencies: 
+  aiSwapper: ">=1.0.1"
+  framework: ">=3.0.0"
+  frontend: ">=1.0.0"
