@@ -1,0 +1,992 @@
+config-sparse:
+  modules:
+    aiSwapper:
+      config:
+        menu:
+          contents:
+            suggested-value:
+              rat:
+                - name: Baron
+                  root: ucp/plugins/AI-Files/resources/ai/Baron/
+                  control:
+                    binks: true
+                    speech: true
+                    lines: true
+                    portrait: true
+                    aic: true
+                    aiv: true
+                    lord: true
+                    startTroops: true
+              snake:
+                - name: Earl
+                  root: ucp/plugins/AI-Files/resources/ai/Earl/
+                  control:
+                    binks: true
+                    speech: true
+                    lines: true
+                    portrait: true
+                    aic: true
+                    aiv: true
+                    lord: true
+                    startTroops: true
+              pig:
+                - name: Princess
+                  root: ucp/plugins/AI-Files/resources/ai/Princess/
+                  control:
+                    binks: true
+                    speech: true
+                    lines: true
+                    portrait: true
+                    aic: true
+                    aiv: true
+                    lord: true
+                    startTroops: true
+              wolf:
+                - name: Wolf
+                  root: ucp/plugins/AI-Files/resources/ai/Wolf/
+                  control:
+                    binks: true
+                    speech: true
+                    lines: true
+                    portrait: true
+                    aic: true
+                    aiv: true
+                    lord: true
+                    startTroops: true
+              saladin:
+                - name: Saladin
+                  root: ucp/plugins/AI-Files/resources/ai/Saladin/
+                  control:
+                    binks: true
+                    speech: true
+                    lines: true
+                    portrait: true
+                    aic: true
+                    aiv: true
+                    lord: true
+                    startTroops: true
+              caliph:
+                - name: caliph
+                  root: ucp/plugins/AI-Files/resources/ai/caliph/
+                  control:
+                    binks: true
+                    speech: true
+                    lines: true
+                    portrait: true
+                    aic: true
+                    aiv: true
+                    lord: true
+                    startTroops: true
+              sultan:
+                - name: sultan
+                  root: ucp/plugins/AI-Files/resources/ai/sultan/
+                  control:
+                    binks: true
+                    speech: true
+                    lines: true
+                    portrait: true
+                    aic: true
+                    aiv: true
+                    lord: true
+                    startTroops: true
+              richard:
+                - name: Prince
+                  root: ucp/plugins/AI-Files/resources/ai/Prince/
+                  control:
+                    binks: true
+                    speech: true
+                    lines: true
+                    portrait: true
+                    aic: true
+                    aiv: true
+                    lord: true
+                    startTroops: true
+              frederick:
+                - name: Knight
+                  root: ucp/plugins/AI-Files/resources/ai/Knight/
+                  control:
+                    binks: true
+                    speech: true
+                    lines: true
+                    portrait: true
+                    aic: true
+                    aiv: true
+                    lord: true
+                    startTroops: true
+              phillip:
+                - name: Marquis
+                  root: ucp/plugins/AI-Files/resources/ai/Marquis/
+                  control:
+                    binks: true
+                    speech: true
+                    lines: true
+                    portrait: true
+                    aic: true
+                    aiv: true
+                    lord: true
+                    startTroops: true
+              wazir:
+                - name: wazir
+                  root: ucp/plugins/AI-Files/resources/ai/Hyaene/
+                  control:
+                    binks: true
+                    speech: true
+                    lines: true
+                    portrait: true
+                    aic: true
+                    aiv: true
+                    lord: true
+                    startTroops: true
+              emir:
+                - name: emir
+                  root: ucp/plugins/AI-Files/resources/ai/emir/
+                  control:
+                    binks: true
+                    speech: true
+                    lines: true
+                    portrait: true
+                    aic: true
+                    aiv: true
+                    lord: true
+                    startTroops: true
+              nizar:
+                - name: nizar
+                  root: ucp/plugins/AI-Files/resources/ai/nizar/
+                  control:
+                    binks: true
+                    speech: true
+                    lines: true
+                    portrait: true
+                    aic: true
+                    aiv: true
+                    lord: true
+                    startTroops: true
+              sheriff:
+                - name: Duke
+                  root: ucp/plugins/AI-Files/resources/ai/Duke/
+                  control:
+                    binks: true
+                    speech: true
+                    lines: true
+                    portrait: true
+                    aic: true
+                    aiv: true
+                    lord: true
+                    startTroops: true
+              marshal:
+                - name: Lady
+                  root: ucp/plugins/AI-Files/resources/ai/Lady/
+                  control:
+                    binks: true
+                    speech: true
+                    lines: true
+                    portrait: true
+                    aic: true
+                    aiv: true
+                    lord: true
+                    startTroops: true
+              abbot:
+                - name: King
+                  root: ucp/plugins/AI-Files/resources/ai/King/
+                  control:
+                    binks: true
+                    speech: true
+                    lines: true
+                    portrait: true
+                    aic: true
+                    aiv: true
+                    lord: true
+                    startTroops: true
+        defaultLanguage:
+          contents:
+            suggested-value: en
+        ai:
+          rat:
+            binks:
+              contents:
+                suggested-value:
+                  name: Baron
+                  root: ucp/plugins/AI-Files/resources/ai/Baron/
+                  active: true
+            speech:
+              contents:
+                suggested-value:
+                  name: Baron
+                  root: ucp/plugins/AI-Files/resources/ai/Baron/
+                  active: true
+            lines:
+              contents:
+                suggested-value:
+                  name: Baron
+                  root: ucp/plugins/AI-Files/resources/ai/Baron/
+                  active: true
+            portrait:
+              contents:
+                suggested-value:
+                  name: Baron
+                  root: ucp/plugins/AI-Files/resources/ai/Baron/
+                  active: true
+            aic:
+              contents:
+                suggested-value:
+                  name: Baron
+                  root: ucp/plugins/AI-Files/resources/ai/Baron/
+                  active: true
+            aiv:
+              contents:
+                suggested-value:
+                  name: Baron
+                  root: ucp/plugins/AI-Files/resources/ai/Baron/
+                  active: true
+            lord:
+              contents:
+                suggested-value:
+                  name: Baron
+                  root: ucp/plugins/AI-Files/resources/ai/Baron/
+                  active: true
+            startTroops:
+              contents:
+                suggested-value:
+                  name: Baron
+                  root: ucp/plugins/AI-Files/resources/ai/Baron/
+                  active: true
+          snake:
+            binks:
+              contents:
+                suggested-value:
+                  name: Earl
+                  root: ucp/plugins/AI-Files/resources/ai/Earl/
+                  active: true
+            speech:
+              contents:
+                suggested-value:
+                  name: Earl
+                  root: ucp/plugins/AI-Files/resources/ai/Earl/
+                  active: true
+            lines:
+              contents:
+                suggested-value:
+                  name: Earl
+                  root: ucp/plugins/AI-Files/resources/ai/Earl/
+                  active: true
+            portrait:
+              contents:
+                suggested-value:
+                  name: Earl
+                  root: ucp/plugins/AI-Files/resources/ai/Earl/
+                  active: true
+            aic:
+              contents:
+                suggested-value:
+                  name: Earl
+                  root: ucp/plugins/AI-Files/resources/ai/Earl/
+                  active: true
+            aiv:
+              contents:
+                suggested-value:
+                  name: Earl
+                  root: ucp/plugins/AI-Files/resources/ai/Earl/
+                  active: true
+            lord:
+              contents:
+                suggested-value:
+                  name: Earl
+                  root: ucp/plugins/AI-Files/resources/ai/Earl/
+                  active: true
+            startTroops:
+              contents:
+                suggested-value:
+                  name: Earl
+                  root: ucp/plugins/AI-Files/resources/ai/Earl/
+                  active: true
+          pig:
+            binks:
+              contents:
+                suggested-value:
+                  name: Princess
+                  root: ucp/plugins/AI-Files/resources/ai/Princess/
+                  active: true
+            speech:
+              contents:
+                suggested-value:
+                  name: Princess
+                  root: ucp/plugins/AI-Files/resources/ai/Princess/
+                  active: true
+            lines:
+              contents:
+                suggested-value:
+                  name: Princess
+                  root: ucp/plugins/AI-Files/resources/ai/Princess/
+                  active: true
+            portrait:
+              contents:
+                suggested-value:
+                  name: Princess
+                  root: ucp/plugins/AI-Files/resources/ai/Princess/
+                  active: true
+            aic:
+              contents:
+                suggested-value:
+                  name: Princess
+                  root: ucp/plugins/AI-Files/resources/ai/Princess/
+                  active: true
+            aiv:
+              contents:
+                suggested-value:
+                  name: Princess
+                  root: ucp/plugins/AI-Files/resources/ai/Princess/
+                  active: true
+            lord:
+              contents:
+                suggested-value:
+                  name: Princess
+                  root: ucp/plugins/AI-Files/resources/ai/Princess/
+                  active: true
+            startTroops:
+              contents:
+                suggested-value:
+                  name: Princess
+                  root: ucp/plugins/AI-Files/resources/ai/Princess/
+                  active: true
+          wolf:
+            binks:
+              contents:
+                suggested-value:
+                  name: wolf
+                  root: ucp/plugins/AI-Files/resources/ai/wolf/
+                  active: true
+            speech:
+              contents:
+                suggested-value:
+                  name: wolf
+                  root: ucp/plugins/AI-Files/resources/ai/wolf/
+                  active: true
+            lines:
+              contents:
+                suggested-value:
+                  name: wolf
+                  root: ucp/plugins/AI-Files/resources/ai/wolf/
+                  active: true
+            portrait:
+              contents:
+                suggested-value:
+                  name: wolf
+                  root: ucp/plugins/AI-Files/resources/ai/wolf/
+                  active: true
+            aic:
+              contents:
+                suggested-value:
+                  name: Wolf
+                  root: ucp/plugins/AI-Files/resources/ai/Wolf/
+                  active: true
+            aiv:
+              contents:
+                suggested-value:
+                  name: Wolf
+                  root: ucp/plugins/AI-Files/resources/ai/Wolf/
+                  active: true
+            lord:
+              contents:
+                suggested-value:
+                  name: Wolf
+                  root: ucp/plugins/AI-Files/resources/ai/Wolf/
+                  active: true
+            startTroops:
+              contents:
+                suggested-value:
+                  name: Wolf
+                  root: ucp/plugins/AI-Files/resources/ai/Wolf/
+                  active: true
+          saladin:
+            binks:
+              contents:
+                suggested-value:
+                  name: Saladin
+                  root: ucp/plugins/AI-Files/resources/ai/saladin/
+                  active: true
+            speech:
+              contents:
+                suggested-value:
+                  name: Saladin
+                  root: ucp/plugins/AI-Files/resources/ai/saladin/
+                  active: true
+            lines:
+              contents:
+                suggested-value:
+                  name: Saladin
+                  root: ucp/plugins/AI-Files/resources/ai/saladin/
+                  active: true
+            portrait:
+              contents:
+                suggested-value:
+                  name: Saladin
+                  root: ucp/plugins/AI-Files/resources/ai/saladin/
+                  active: true
+            aic:
+              contents:
+                suggested-value:
+                  name: Saladin
+                  root: ucp/plugins/AI-Files/resources/ai/Saladin/
+                  active: true
+            aiv:
+              contents:
+                suggested-value:
+                  name: Saladin
+                  root: ucp/plugins/AI-Files/resources/ai/Saladin/
+                  active: true
+            lord:
+              contents:
+                suggested-value:
+                  name: Saladin
+                  root: ucp/plugins/AI-Files/resources/ai/Saladin/
+                  active: true
+            startTroops:
+              contents:
+                suggested-value:
+                  name: Saladin
+                  root: ucp/plugins/AI-Files/resources/ai/Saladin/
+                  active: true
+          caliph:
+            binks:
+              contents:
+                suggested-value:
+                  name: caliph
+                  root: ucp/plugins/AI-Files/resources/ai/caliph/
+                  active: true
+            speech:
+              contents:
+                suggested-value:
+                  name: caliph
+                  root: ucp/plugins/AI-Files/resources/ai/caliph/
+                  active: true
+            lines:
+              contents:
+                suggested-value:
+                  name: caliph
+                  root: ucp/plugins/AI-Files/resources/ai/caliph/
+                  active: true
+            portrait:
+              contents:
+                suggested-value:
+                  name: caliph
+                  root: ucp/plugins/AI-Files/resources/ai/caliph/
+                  active: true
+            aic:
+              contents:
+                suggested-value:
+                  name: caliph
+                  root: ucp/plugins/AI-Files/resources/ai/caliph/
+                  active: true
+            aiv:
+              contents:
+                suggested-value:
+                  name: caliph
+                  root: ucp/plugins/AI-Files/resources/ai/caliph/
+                  active: true
+            lord:
+              contents:
+                suggested-value:
+                  name: caliph
+                  root: ucp/plugins/AI-Files/resources/ai/caliph/
+                  active: true
+            startTroops:
+              contents:
+                suggested-value:
+                  name: caliph
+                  root: ucp/plugins/AI-Files/resources/ai/caliph/
+                  active: true
+          sultan:
+            binks:
+              contents:
+                suggested-value:
+                  name: sultan
+                  root: ucp/plugins/AI-Files/resources/ai/sultan/
+                  active: true
+            speech:
+              contents:
+                suggested-value:
+                  name: sultan
+                  root: ucp/plugins/AI-Files/resources/ai/sultan/
+                  active: true
+            lines:
+              contents:
+                suggested-value:
+                  name: sultan
+                  root: ucp/plugins/AI-Files/resources/ai/sultan/
+                  active: true
+            portrait:
+              contents:
+                suggested-value:
+                  name: sultan
+                  root: ucp/plugins/AI-Files/resources/ai/sultan/
+                  active: true
+            aic:
+              contents:
+                suggested-value:
+                  name: sultan
+                  root: ucp/plugins/AI-Files/resources/ai/sultan/
+                  active: true
+            aiv:
+              contents:
+                suggested-value:
+                  name: sultan
+                  root: ucp/plugins/AI-Files/resources/ai/sultan/
+                  active: true
+            lord:
+              contents:
+                suggested-value:
+                  name: sultan
+                  root: ucp/plugins/AI-Files/resources/ai/sultan/
+                  active: true
+            startTroops:
+              contents:
+                suggested-value:
+                  name: sultan
+                  root: ucp/plugins/AI-Files/resources/ai/sultan/
+                  active: true
+          richard:
+            binks:
+              contents:
+                suggested-value:
+                  name: Prince
+                  root: ucp/plugins/AI-Files/resources/ai/Prince/
+                  active: true
+            speech:
+              contents:
+                suggested-value:
+                  name: Prince
+                  root: ucp/plugins/AI-Files/resources/ai/Prince/
+                  active: true
+            lines:
+              contents:
+                suggested-value:
+                  name: Prince
+                  root: ucp/plugins/AI-Files/resources/ai/Prince/
+                  active: true
+            portrait:
+              contents:
+                suggested-value:
+                  name: Prince
+                  root: ucp/plugins/AI-Files/resources/ai/Prince/
+                  active: true
+            aic:
+              contents:
+                suggested-value:
+                  name: Prince
+                  root: ucp/plugins/AI-Files/resources/ai/Prince/
+                  active: true
+            aiv:
+              contents:
+                suggested-value:
+                  name: Prince
+                  root: ucp/plugins/AI-Files/resources/ai/Prince/
+                  active: true
+            lord:
+              contents:
+                suggested-value:
+                  name: Prince
+                  root: ucp/plugins/AI-Files/resources/ai/Prince/
+                  active: true
+            startTroops:
+              contents:
+                suggested-value:
+                  name: Prince
+                  root: ucp/plugins/AI-Files/resources/ai/Prince/
+                  active: true
+          frederick:
+            binks:
+              contents:
+                suggested-value:
+                  name: Knight
+                  root: ucp/plugins/AI-Files/resources/ai/Knight/
+                  active: true
+            speech:
+              contents:
+                suggested-value:
+                  name: Knight
+                  root: ucp/plugins/AI-Files/resources/ai/Knight/
+                  active: true
+            lines:
+              contents:
+                suggested-value:
+                  name: Knight
+                  root: ucp/plugins/AI-Files/resources/ai/Knight/
+                  active: true
+            portrait:
+              contents:
+                suggested-value:
+                  name: Knight
+                  root: ucp/plugins/AI-Files/resources/ai/Knight/
+                  active: true
+            aic:
+              contents:
+                suggested-value:
+                  name: Knight
+                  root: ucp/plugins/AI-Files/resources/ai/Knight/
+                  active: true
+            aiv:
+              contents:
+                suggested-value:
+                  name: Knight
+                  root: ucp/plugins/AI-Files/resources/ai/Knight/
+                  active: true
+            lord:
+              contents:
+                suggested-value:
+                  name: Knight
+                  root: ucp/plugins/AI-Files/resources/ai/Knight/
+                  active: true
+            startTroops:
+              contents:
+                suggested-value:
+                  name: Knight
+                  root: ucp/plugins/AI-Files/resources/ai/Knight/
+                  active: true
+          phillip:
+            binks:
+              contents:
+                suggested-value:
+                  name: Marquis
+                  root: ucp/plugins/AI-Files/resources/ai/Marquis/
+                  active: true
+            speech:
+              contents:
+                suggested-value:
+                  name: Marquis
+                  root: ucp/plugins/AI-Files/resources/ai/Marquis/
+                  active: true
+            lines:
+              contents:
+                suggested-value:
+                  name: Marquis
+                  root: ucp/plugins/AI-Files/resources/ai/Marquis/
+                  active: true
+            portrait:
+              contents:
+                suggested-value:
+                  name: Marquis
+                  root: ucp/plugins/AI-Files/resources/ai/Marquis/
+                  active: true
+            aic:
+              contents:
+                suggested-value:
+                  name: Marquis
+                  root: ucp/plugins/AI-Files/resources/ai/Marquis/
+                  active: true
+            aiv:
+              contents:
+                suggested-value:
+                  name: Marquis
+                  root: ucp/plugins/AI-Files/resources/ai/Marquis/
+                  active: true
+            lord:
+              contents:
+                suggested-value:
+                  name: Marquis
+                  root: ucp/plugins/AI-Files/resources/ai/Marquis/
+                  active: true
+            startTroops:
+              contents:
+                suggested-value:
+                  name: Marquis
+                  root: ucp/plugins/AI-Files/resources/ai/Marquis/
+                  active: true
+          wazir:
+            binks:
+              contents:
+                suggested-value:
+                  name: wazir
+                  root: ucp/plugins/AI-Files/resources/ai/Hyaene/
+                  active: true
+            speech:
+              contents:
+                suggested-value:
+                  name: wazir
+                  root: ucp/plugins/AI-Files/resources/ai/Hyaene/
+                  active: true
+            lines:
+              contents:
+                suggested-value:
+                  name: wazir
+                  root: ucp/plugins/AI-Files/resources/ai/Hyaene/
+                  active: true
+            portrait:
+              contents:
+                suggested-value:
+                  name: wazir
+                  root: ucp/plugins/AI-Files/resources/ai/Hyaene/
+                  active: true
+            aic:
+              contents:
+                suggested-value:
+                  name: wazir
+                  root: ucp/plugins/AI-Files/resources/ai/Hyaene/
+                  active: true
+            aiv:
+              contents:
+                suggested-value:
+                  name: wazir
+                  root: ucp/plugins/AI-Files/resources/ai/Hyaene/
+                  active: true
+            lord:
+              contents:
+                suggested-value:
+                  name: wazir
+                  root: ucp/plugins/AI-Files/resources/ai/Hyaene/
+                  active: true
+            startTroops:
+              contents:
+                suggested-value:
+                  name: wazir
+                  root: ucp/plugins/AI-Files/resources/ai/Hyaene/
+                  active: true
+          emir:
+            binks:
+              contents:
+                suggested-value:
+                  name: emir
+                  root: ucp/plugins/AI-Files/resources/ai/emir/
+                  active: true
+            speech:
+              contents:
+                suggested-value:
+                  name: emir
+                  root: ucp/plugins/AI-Files/resources/ai/emir/
+                  active: true
+            lines:
+              contents:
+                suggested-value:
+                  name: emir
+                  root: ucp/plugins/AI-Files/resources/ai/emir/
+                  active: true
+            portrait:
+              contents:
+                suggested-value:
+                  name: emir
+                  root: ucp/plugins/AI-Files/resources/ai/emir/
+                  active: true
+            aic:
+              contents:
+                suggested-value:
+                  name: emir
+                  root: ucp/plugins/AI-Files/resources/ai/emir/
+                  active: true
+            aiv:
+              contents:
+                suggested-value:
+                  name: emir
+                  root: ucp/plugins/AI-Files/resources/ai/emir/
+                  active: true
+            lord:
+              contents:
+                suggested-value:
+                  name: emir
+                  root: ucp/plugins/AI-Files/resources/ai/emir/
+                  active: true
+            startTroops:
+              contents:
+                suggested-value:
+                  name: emir
+                  root: ucp/plugins/AI-Files/resources/ai/emir/
+                  active: true
+          nizar:
+            binks:
+              contents:
+                suggested-value:
+                  name: nizar
+                  root: ucp/plugins/AI-Files/resources/ai/nizar/
+                  active: true
+            speech:
+              contents:
+                suggested-value:
+                  name: nizar
+                  root: ucp/plugins/AI-Files/resources/ai/nizar/
+                  active: true
+            lines:
+              contents:
+                suggested-value:
+                  name: nizar
+                  root: ucp/plugins/AI-Files/resources/ai/nizar/
+                  active: true
+            portrait:
+              contents:
+                suggested-value:
+                  name: nizar
+                  root: ucp/plugins/AI-Files/resources/ai/nizar/
+                  active: true
+            aic:
+              contents:
+                suggested-value:
+                  name: nizar
+                  root: ucp/plugins/AI-Files/resources/ai/nizar/
+                  active: true
+            aiv:
+              contents:
+                suggested-value:
+                  name: nizar
+                  root: ucp/plugins/AI-Files/resources/ai/nizar/
+                  active: true
+            lord:
+              contents:
+                suggested-value:
+                  name: nizar
+                  root: ucp/plugins/AI-Files/resources/ai/nizar/
+                  active: true
+            startTroops:
+              contents:
+                suggested-value:
+                  name: nizar
+                  root: ucp/plugins/AI-Files/resources/ai/nizar/
+                  active: true
+          sheriff:
+            binks:
+              contents:
+                suggested-value:
+                  name: Duke
+                  root: ucp/plugins/AI-Files/resources/ai/Duke/
+                  active: true
+            speech:
+              contents:
+                suggested-value:
+                  name: Duke
+                  root: ucp/plugins/AI-Files/resources/ai/Duke/
+                  active: true
+            lines:
+              contents:
+                suggested-value:
+                  name: Duke
+                  root: ucp/plugins/AI-Files/resources/ai/Duke/
+                  active: true
+            portrait:
+              contents:
+                suggested-value:
+                  name: Duke
+                  root: ucp/plugins/AI-Files/resources/ai/Duke/
+                  active: true
+            aic:
+              contents:
+                suggested-value:
+                  name: Duke
+                  root: ucp/plugins/AI-Files/resources/ai/Duke/
+                  active: true
+            aiv:
+              contents:
+                suggested-value:
+                  name: Duke
+                  root: ucp/plugins/AI-Files/resources/ai/Duke/
+                  active: true
+            lord:
+              contents:
+                suggested-value:
+                  name: Duke
+                  root: ucp/plugins/AI-Files/resources/ai/Duke/
+                  active: true
+            startTroops:
+              contents:
+                suggested-value:
+                  name: Duke
+                  root: ucp/plugins/AI-Files/resources/ai/Duke/
+                  active: true
+          marshal:
+            binks:
+              contents:
+                suggested-value:
+                  name: Lady
+                  root: ucp/plugins/AI-Files/resources/ai/Lady/
+                  active: true
+            speech:
+              contents:
+                suggested-value:
+                  name: Lady
+                  root: ucp/plugins/AI-Files/resources/ai/Lady/
+                  active: true
+            lines:
+              contents:
+                suggested-value:
+                  name: Lady
+                  root: ucp/plugins/AI-Files/resources/ai/Lady/
+                  active: true
+            portrait:
+              contents:
+                suggested-value:
+                  name: Lady
+                  root: ucp/plugins/AI-Files/resources/ai/Lady/
+                  active: true
+            aic:
+              contents:
+                suggested-value:
+                  name: Lady
+                  root: ucp/plugins/AI-Files/resources/ai/Lady/
+                  active: true
+            aiv:
+              contents:
+                suggested-value:
+                  name: Lady
+                  root: ucp/plugins/AI-Files/resources/ai/Lady/
+                  active: true
+            lord:
+              contents:
+                suggested-value:
+                  name: Lady
+                  root: ucp/plugins/AI-Files/resources/ai/Lady/
+                  active: true
+            startTroops:
+              contents:
+                suggested-value:
+                  name: Lady
+                  root: ucp/plugins/AI-Files/resources/ai/Lady/
+                  active: true
+          abbot:
+            binks:
+              contents:
+                suggested-value:
+                  name: King
+                  root: ucp/plugins/AI-Files/resources/ai/King/
+                  active: true
+            speech:
+              contents:
+                suggested-value:
+                  name: King
+                  root: ucp/plugins/AI-Files/resources/ai/King/
+                  active: true
+            lines:
+              contents:
+                suggested-value:
+                  name: King
+                  root: ucp/plugins/AI-Files/resources/ai/King/
+                  active: true
+            portrait:
+              contents:
+                suggested-value:
+                  name: King
+                  root: ucp/plugins/AI-Files/resources/ai/King/
+                  active: true
+            aic:
+              contents:
+                suggested-value:
+                  name: King
+                  root: ucp/plugins/AI-Files/resources/ai/King/
+                  active: true
+            aiv:
+              contents:
+                suggested-value:
+                  name: King
+                  root: ucp/plugins/AI-Files/resources/ai/King/
+                  active: true
+            lord:
+              contents:
+                suggested-value:
+                  name: King
+                  root: ucp/plugins/AI-Files/resources/ai/King/
+                  active: true
+            startTroops:
+              contents:
+                suggested-value:
+                  name: King
+                  root: ucp/plugins/AI-Files/resources/ai/King/
+                  active: true
+  plugins:
+    AI-Files:
+      config: {}
+meta:
+  version: 1.0.1
